@@ -1,1 +1,1 @@
-This was one of my first academic projects done in CEGEP. We studied the preformance of the Metropolis Algorithm with the task of decryption on a bijective key function.
+This was one of my first academic projects done in CEGEP. We studied the preformance of the Metropolis Algorithm with the task of decryption on a bijective key function. You can email me for the Latex report completed to satitfy the ESP project requirements.
